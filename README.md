@@ -3,8 +3,8 @@
 <h3 align="center">A passionate flutter developer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=23amitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitbinqadeer" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbasitbinqadeer" alt="abdulbasitbinqadeer" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=23amitkumar&label=Profile%20views&color=0e75b6&style=flat" alt="23amitkumar" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23amitkumar" alt="23amitkumar" /></a> </p>
 
 - 🔭 I’m currently working on **Ecommerce app**
 
