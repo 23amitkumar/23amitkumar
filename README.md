@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:7209B7&height=220&section=header&text=Amit%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:7209B7&height=200&section=header&text=Amit%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Passionate+Flutter+Developer+🚀;Mobile+App+Architect+📱;UI%2FUX+%26+Cross-Platform+Enthusiast;Building+Awesome+Mobile+Experiences+✨" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Passionate+Flutter+Developer;Mobile+App+Architect;UI%2FUX+%26+Cross-Platform+Enthusiast;Building+Awesome+Mobile+Experiences" alt="Typing SVG" />
 
-  <br />
+  <br /><br />
 
   <p align="center">
-    <a href="https://23amitkumar.github.io/amit_portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://23amitkumar.github.io/amit_portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/amitk23" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:amit22ggi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/23amitkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,7 +21,7 @@
 
 ### 💫 About Me
 
-- 🌐 Live Portfolio: **[23amitkumar.github.io/amit_portfolio](https://23amitkumar.github.io/amit_portfolio/)**
+- 🌐 Portfolio: **[Explore My Personal Portfolio & Projects 🚀](https://23amitkumar.github.io/amit_portfolio/)**
 - 🔭 Currently working on: **High-performance E-Commerce Applications**
 - 🌱 Currently learning: **Advanced State Management (Riverpod, Bloc, Provider)**
 - 👯 Looking to collaborate on: **AI & Innovative Cross-Platform Mobile Projects**
@@ -78,28 +76,14 @@
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <a href="https://github.com/23amitkumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=23amitkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" width="49%" />
-  </a>
-  <a href="https://github.com/23amitkumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23amitkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=23amitkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=23amitkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/23amitkumar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=23amitkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=23amitkumar&theme=tokyonight&column=7&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23amitkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
 
 <hr />
@@ -107,4 +91,3 @@
 <div align="center">
   <sub>✨ Designed with passion for Flutter & Mobile Engineering ✨</sub>
 </div>
-
